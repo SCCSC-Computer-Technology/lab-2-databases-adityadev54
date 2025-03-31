@@ -1,0 +1,26 @@
+Aditya’s Form design is very appealing of having a black, light and dark grey background colors and writing while there is one green button that says, “Add City”. 
+The database has 4 buttons that connects to the database of:
+•	LowPop
+•	HighPop
+•	AvgPop
+•	TotalPop
+There is no “Exit” button except for little red and blue icons on the top, right side of the database that’s across from the title, “Population”. 
+Additionally, there is a sort button along with a combo box beside it. However, the text of the ‘MainForm’ is titled, “Population” without including the 
+word “database” to not cause confusion to users when using the database itself. File name of submitting the assignment wasn’t met because it’s titled, “Population”; 
+instead it should have been titled, “APatel-Lab-2” like the course addendum showed at the very last page when submitting the assignment [highlighted in yellow].
+
+The code, inside the Form design is neat with assigned buttons. However, the comments is shown for what action would happen at the beginning but has not been said 
+what the rest of the buttons do. Additionally, there is no mdf file except for
+•	CityDBDataSet.xsd
+•	CityDBDataSet.Designer.cs
+•	CityDBDataSet.xsc
+•	CityDBDataSet.xss
+
+Upon running the program, I received an error on line 18 of “Exception Unhandled” because it is missing the main piece of the database program which is the Access
+'mdf' file that brings the database and windows form together to make it work. I did click “Continue” which led me to exit the program. 
+Thus, conducting the program has lead a short, uncompleted program.
+
+Overall the assignment is considered half completed base off of missing the main 'mdf' file that goes with the other four DataSet’s. 
+The appearance is passing but making the program run would make the assignment pass. Comparing my assignment to Aditya’s is that I need to have time 
+to make my appearance form [design] like something like that because it shows dedication. Even if the program didn’t run correctly, the assignment shows 
+progress of trying to make the program work while also making it appealing to the use’s eye.
