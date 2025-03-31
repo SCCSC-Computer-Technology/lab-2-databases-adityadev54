@@ -1,0 +1,33 @@
+Start
+	Display my information
+	Declare variables
+		Float totalPrice = 0
+		int age = 0
+		float weight = 0
+		float percent = 0
+	input/output
+		"Please enter the weight of the watermelon"
+		weight
+		"Please enter your age"
+		age
+
+	if age <= 0
+		input/output
+			"invalid age was entered"
+	else
+		if age < 60
+			Process
+				percent = 0.15
+		else
+			process
+				percent = 0.05
+
+	process
+		totalPrice = weight* percent
+	Output
+		"The price of the watermelon is"
+		totalPrice
+	Output
+		"Thank You"
+Stop
+		
